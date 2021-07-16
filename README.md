@@ -1,0 +1,1 @@
+# Numpy-Multinomial-Distribution
